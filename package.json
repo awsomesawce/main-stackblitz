@@ -1,0 +1,21 @@
+{
+  "name": "node-got-test",
+  "version": "0.0.1",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "servor"
+  },
+  "dependencies": {
+    "@octokit/core": "^3.5.1",
+    "@octokit/request": "^5.6.2",
+    "got": "^11.8.2",
+    "js-yaml": "^4.1.0",
+    "json5": "^2.2.0",
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {
+    "servor": "^4.0.2"
+  }
+}
