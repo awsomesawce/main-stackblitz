@@ -13,7 +13,7 @@
     "got": "^11.8.2",
     "js-yaml": "^4.1.0",
     "json5": "^2.2.0",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   },
   "devDependencies": {
     "servor": "^4.0.2"
